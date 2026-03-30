@@ -64,3 +64,7 @@ Um wieder zur Standard-Ansicht zurückzukehren: **Darstellung > E-Mail > Standar
 2. Wähle rechts oben **Mehr** aus.
 3. Wähle **Quelltext anzeigen**.
 4. Es öffnet sich ein Fenster mit dem E-Mail-Header.
+
+---
+
+**Quelle:** https://www.netcup.com/de/helpcenter/dokumentation/webhosting/header-anzeigen
